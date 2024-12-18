@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/React-proyekt/static/css/main.877212d9.css",
-    "main.js": "/React-proyekt/static/js/main.562b3243.js",
-    "index.html": "/React-proyekt/index.html",
-    "main.877212d9.css.map": "/React-proyekt/static/css/main.877212d9.css.map",
-    "main.562b3243.js.map": "/React-proyekt/static/js/main.562b3243.js.map"
+    "main.css": "/React-layihe/static/css/main.877212d9.css",
+    "main.js": "/React-layihe/static/js/main.562b3243.js",
+    "index.html": "/React-layihe/index.html",
+    "main.877212d9.css.map": "/React-layihe/static/css/main.877212d9.css.map",
+    "main.562b3243.js.map": "/React-layihe/static/js/main.562b3243.js.map"
   },
   "entrypoints": [
     "static/css/main.877212d9.css",
