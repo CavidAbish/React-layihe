@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-layihe/static/css/main.877212d9.css",
-    "main.js": "/React-layihe/static/js/main.4717656f.js",
+    "main.js": "/React-layihe/static/js/main.98609c53.js",
     "index.html": "/React-layihe/index.html",
     "main.877212d9.css.map": "/React-layihe/static/css/main.877212d9.css.map",
-    "main.4717656f.js.map": "/React-layihe/static/js/main.4717656f.js.map"
+    "main.98609c53.js.map": "/React-layihe/static/js/main.98609c53.js.map"
   },
   "entrypoints": [
     "static/css/main.877212d9.css",
-    "static/js/main.4717656f.js"
+    "static/js/main.98609c53.js"
   ]
 }
